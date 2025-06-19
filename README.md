@@ -15,6 +15,8 @@ The application provides a clean and responsive interface for managing appointme
 
 ## 📁 Folder Structure
 
+```
+
 frontend/
 ├── public/
 │ └── index.html
@@ -30,7 +32,7 @@ frontend/
 │ └── index.jsx
 └── package.json
 
-
+```
 ## ✅ Features
 
 ### Public Users
