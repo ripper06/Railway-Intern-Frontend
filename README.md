@@ -72,8 +72,8 @@ frontend/
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/railway-frontend.git
-cd railway-frontend
+git clone https://github.com/your-username/railway-frontend.git](https://github.com/ripper06/Railway-Intern-Frontend.git
+cd Railway-Intern-Frontend
 
 # Install dependencies
 npm install
@@ -91,11 +91,29 @@ Once logged in, a valid JWT token is stored in localStorage and enables the Add/
 
 ## 📸 Screenshots
 - Home (Appointments table with filters)
+  ![Landing](https://github.com/user-attachments/assets/9f8946ed-a72d-47af-b342-da52cd23ba29)
 
-- Tours Programme table
+- Filter Search Option
+  ![FILTER ON FROM DATE](https://github.com/user-attachments/assets/1a6e325e-0ba7-476c-9176-2580c8ad1411)
 
-- Add/Edit Popup Modal
+- Login Page
+   ![Login](https://github.com/user-attachments/assets/34e132fb-395b-4c55-b3df-72396e2138af)
 
+
+- Add,Edit,Delete Option after loggedin
+   ![AddEditDelete](https://github.com/user-attachments/assets/c02efde0-f35f-419e-9cb2-cbd5a8818a64)
+
+- Topup menu to add new appointment
+   ![Add topup](https://github.com/user-attachments/assets/e956805b-b440-4f4d-92ff-021d31cf03d9)
+
+- Topup menu to edit existing appointment
+    ![Edit topup](https://github.com/user-attachments/assets/e55c056d-9411-455e-b962-fa2f2da13202)
+
+- Delete existing appointment
+    ![Delete](https://github.com/user-attachments/assets/ddf8c269-1079-4239-9f85-bcc366a39ef3)
+
+- Same UI and Functionality for tour
+    ![Tour](https://github.com/user-attachments/assets/1001bc26-bd53-48dc-bfaa-17314ea9c143)
 
 
 ## 💬 Contact
